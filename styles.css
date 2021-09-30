@@ -1,0 +1,15 @@
+.accusation:hover {
+    cursor: pointer;
+     background-color: #6c757d; 
+}
+
+h1{
+    color: green;
+}
+body{
+    background-color: black;
+}
+
+#row1{
+    color: green;
+}
